@@ -32,6 +32,7 @@ plt.show()
 ## Data structure: `RefModelExtendedSample`
 ```bash
 RefModelExtendedSample()
+|
 |-- resolution_minus_8res
 |    |-- entropy_profile
 |    |-- gas_fraction
@@ -41,5 +42,77 @@ RefModelExtendedSample()
 |    |-- VR_numbers
 |
 |-- resolution_plus_1res
+     |--  ...
+```
+
+## Data structure: `PropertiesReducedSample`
+```bash
+PropertiesReducedSample()
+|
+|-- redshift_0
+|    |-- VR18_minus_1res
+|    |    |-- AGNdT8
+|    |    |    |-- entropy_core
+|    |    |    |-- fbary            {Baryon fraction == fgas + fstar}
+|    |    |    |-- fgas
+|    |    |    |-- fstar
+|    |    |    |-- m500
+|    |    |    |-- mbh              {Mass of the SMBH}
+|    |    |    |-- mgas             {Mass of the hot gas inside r500}
+|    |    |    |-- mstar_100kpc     {Stellar mass of the BCG}
+|    |    |    |-- ssfr_100kpc      {1Gyr-averaged specific star-formation rate in the BCG}
+|    |    |
+|    |    |-- AGNdT9 [same fields]
+|    |    |-- Bipolar [...]
+|    |    |-- Isotropic [...]
+|    |    |-- Random [...]
+|    |    |-- Ref [...]
+|    |    |-- alpha0 [...]
+|    |    |-- noAGN [...]
+|    |    |-- noMetalCooling [...]
+|    |    |-- noSN [...]
+|    |
+|    |-- VR18_plus_8res
+|    |    |--  ...
+|    |
+|    |-- VR2915_plus_1res
+|    |    |--  ...
+|    |
+|    |-- VR2915_minus_8res
+|         |--  ...
+|
+|
+|-- redshift_1
+     |--  ...
+```
+
+## Data structure: `ProfilesReducedSample`
+```bash
+ProfilesReducedSample()
+|
+|-- VR18_minus_1res
+|    |-- AGNdT8
+|    |    |-- density_profile
+|    |    |-- entropy_profile
+|    |    |-- temperature_profile
+|    |    |-- radial_bin_centers
+|    |
+|    |-- AGNdT9 [same fields]
+|    |-- Bipolar [...]
+|    |-- Isotropic [...]
+|    |-- Random [...]
+|    |-- Ref [...]
+|    |-- alpha0 [...]
+|    |-- noAGN [...]
+|    |-- noMetalCooling [...]
+|    |-- noSN [...]
+|
+|-- VR18_plus_8res
 |    |--  ...
+|
+|-- VR2915_plus_1res
+|    |--  ...
+|
+|-- VR2915_minus_8res
+     |--  ...
 ```
