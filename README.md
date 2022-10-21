@@ -1,5 +1,4 @@
-![Logo](./logo.jpg)
-
+<img src="./logo.jpg" alt="Logo" width="200"/>
 
 ![MIT License](https://img.shields.io/github/license/edoaltamura/entropy-core-problem)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)
