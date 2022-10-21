@@ -14,7 +14,7 @@
 </p>
 
 
-# Entropy core problem
+# The entropy core problem
 #### Data products from the study by [Altamura et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv221009978A/abstract)
 
 ![Profiles](img/profiles_observations.png)
