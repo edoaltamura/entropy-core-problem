@@ -1,5 +1,6 @@
 <div align="center">
      
+     <img alt="MIT License" src="<img alt="Pod Version" src="https://img.shields.io/cocoapods/v/TLYShyNavBar.svg" />" />
      
      <a href="">![MIT License](https://img.shields.io/github/license/edoaltamura/entropy-core-problem)</a>
      <a href="">![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)</a>
