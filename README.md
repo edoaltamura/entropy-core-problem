@@ -1,7 +1,10 @@
 ![Stargazers](https://img.shields.io/github/stars/edoaltamura/entropy-core-problem)
 ![Issues](https://img.shields.io/github/issues/edoaltamura/entropy-core-problem)
 ![MIT License](https://img.shields.io/github/license/edoaltamura/entropy-core-problem)
-![Entropy cores](https://img.shields.io/badge/entropy-cores-blue)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)
+![Entropy cores](https://img.shields.io/badge/Entropy-cores-red)
+![Simulations HPC](https://img.shields.io/badge/Simulations-HPC-red)
+![Simulations HPC](https://img.shields.io/badge/Simulations-HPC-red)
 
 # Entropy core problem
 
