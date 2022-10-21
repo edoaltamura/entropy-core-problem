@@ -1,10 +1,3 @@
-<p align="center">
-     <picture>
-       <source media="(prefers-color-scheme: light)" srcset="img/logo_light.jpg">
-       <img alt="Logo" src="img/logo_dark.jpg" width="200"/>
-     </picture>
-</p>
-
 ![MIT License](https://img.shields.io/github/license/edoaltamura/entropy-core-problem)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)
 ![Entropy cores](https://img.shields.io/badge/Entropy-cores-red)
@@ -13,10 +6,16 @@
 ![Stargazers](https://img.shields.io/github/stars/edoaltamura/entropy-core-problem)
 ![Issues](https://img.shields.io/github/issues/edoaltamura/entropy-core-problem)
 
+<p align="center">
+     <picture>
+       <source media="(prefers-color-scheme: light)" srcset="img/logo_light.jpg">
+       <img alt="Logo" src="img/logo_dark.jpg" width="200"/>
+     </picture>
+</p>
+
+
 # Entropy core problem
-
-
-## Data products from the study by [Altamura et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv221009978A/abstract)
+#### Data products from the study by [Altamura et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv221009978A/abstract)
 
 ![Profiles](img/profiles_observations.png)
 
