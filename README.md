@@ -3,6 +3,7 @@
 ![Entropy cores](https://img.shields.io/badge/Entropy-cores-red)
 ![Cosmology](https://img.shields.io/badge/Galaxy-clusters-yellow)
 ![Simulations HPC](https://img.shields.io/badge/Simulations-HPC-red)
+![DiRAC](https://img.shields.io/badge/DiRAC-COSMA7-green)
 ![Stargazers](https://img.shields.io/github/stars/edoaltamura/entropy-core-problem)
 ![Issues](https://img.shields.io/github/issues/edoaltamura/entropy-core-problem)
 
