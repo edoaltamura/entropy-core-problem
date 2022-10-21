@@ -1,6 +1,7 @@
 ![MIT License](https://img.shields.io/github/license/edoaltamura/entropy-core-problem)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)
-![Entropy cores](https://img.shields.io/badge/Entropy-cores-red)
+![Entropy cores](https://img.shields.io/badge/ArXiv-2210.09978-red)
+![Entropy cores](https://img.shields.io/badge/Entropy-cores-blueviolet)
 ![Cosmology](https://img.shields.io/badge/Galaxy-clusters-yellow)
 ![Simulations HPC](https://img.shields.io/badge/Simulations-HPC-red)
 ![DiRAC](https://img.shields.io/badge/DiRAC-COSMA7-green)
