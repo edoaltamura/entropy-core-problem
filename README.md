@@ -1,5 +1,6 @@
 <div align="center">
      
+     
      <a href="">![MIT License](https://img.shields.io/github/license/edoaltamura/entropy-core-problem)</a>
      <a href="">![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)</a>
      <a href="">![Entropy cores](https://img.shields.io/badge/Entropy-cores-red)</a>
@@ -7,6 +8,7 @@
      <a href="">![Simulations HPC](https://img.shields.io/badge/Simulations-HPC-red)</a>
      <a href="">![Stargazers](https://img.shields.io/github/stars/edoaltamura/entropy-core-problem)</a>
      <a href="">![Issues](https://img.shields.io/github/issues/edoaltamura/entropy-core-problem)</a>
+     
      
 </div>
 
