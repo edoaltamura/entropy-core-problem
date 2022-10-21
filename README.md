@@ -28,3 +28,18 @@ plt.xlabel(r"$r/r_{500}$")
 plt.ylabel(r"$K/K_{500}$")
 plt.show()
 ```
+
+## Data structure: `RefModelExtendedSample`
+```bash
+RefModelExtendedSample()
+|-- resolution_minus_8res
+|    |-- entropy_profile
+|    |-- gas_fraction
+|    |-- m500
+|    |-- radial_bin_centres
+|    |-- star_fraction
+|    |-- VR_numbers
+|
+|-- resolution_plus_1res
+|    |--  ...
+```
