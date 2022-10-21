@@ -1,12 +1,13 @@
-![MIT License](https://img.shields.io/github/license/edoaltamura/entropy-core-problem)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)
-![Entropy cores](https://img.shields.io/badge/Entropy-cores-red)
-![Cosmology](https://img.shields.io/badge/Galaxy-clusters-yellow)
-![Simulations HPC](https://img.shields.io/badge/Simulations-HPC-red)
-![Stargazers](https://img.shields.io/github/stars/edoaltamura/entropy-core-problem)
-![Issues](https://img.shields.io/github/issues/edoaltamura/entropy-core-problem)
-
 <p align="center">
+     
+     ![MIT License](https://img.shields.io/github/license/edoaltamura/entropy-core-problem)
+     ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)
+     ![Entropy cores](https://img.shields.io/badge/Entropy-cores-red)
+     ![Cosmology](https://img.shields.io/badge/Galaxy-clusters-yellow)
+     ![Simulations HPC](https://img.shields.io/badge/Simulations-HPC-red)
+     ![Stargazers](https://img.shields.io/github/stars/edoaltamura/entropy-core-problem)
+     ![Issues](https://img.shields.io/github/issues/edoaltamura/entropy-core-problem)
+
      <picture>
        <source media="(prefers-color-scheme: light)" srcset="img/logo_light.jpg">
        <img alt="Logo" src="img/logo_dark.jpg" width="200"/>
