@@ -1,4 +1,9 @@
-<img src="./logo.jpg" alt="Logo" width="200"/>
+<p align="center">
+     <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+       <img alt="Logo" src="./logo.jpg" width="200"/>
+     </picture>
+</p>
 
 ![MIT License](https://img.shields.io/github/license/edoaltamura/entropy-core-problem)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)
