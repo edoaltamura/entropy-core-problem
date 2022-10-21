@@ -1,7 +1,7 @@
 <p align="center">
      <picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-       <img alt="Logo" src="./logo.jpg" width="200"/>
+       <source media="(prefers-color-scheme: light)" srcset="img/logo_light.jpg">
+       <img alt="Logo" src="img/logo_dark.jpg" width="200"/>
      </picture>
 </p>
 
@@ -18,7 +18,7 @@
 
 ## Data products from the study by [Altamura et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv221009978A/abstract)
 
-![Profiles](./profiles_observations.png)
+![Profiles](img/profiles_observations.png)
 
 The data are supplied in `hdf5` format. They can be inspectes with `h5dump`, `HDFView` and can be read programmatically using the supplied file `load_data.py`.
 
