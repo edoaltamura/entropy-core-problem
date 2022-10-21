@@ -1,9 +1,8 @@
 # Entropy core problem
 
-[![Stargazers][stars-shield]][https://img.shields.io/github/stars/edoaltamura/entropy-core-problem]
-[![Issues][issues-shield][issues-url]][https://img.shields.io/github/issues/edoaltamura/entropy-core-problem]
-[![MIT License][license-shield]][https://img.shields.io/github/license/edoaltamura/entropy-core-problem]
-[![LinkedIn][linkedin-shield]][linkedin-url]][https://www.linkedin.com/in/edoardoaltamura/]
+![Stargazers](https://img.shields.io/github/stars/edoaltamura/entropy-core-problem)
+![Issues](https://img.shields.io/github/issues/edoaltamura/entropy-core-problem)
+![MIT License](https://img.shields.io/github/license/edoaltamura/entropy-core-problem)
 
 ## Data products from the study by [Altamura et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv221009978A/abstract)
 The data are supplied in `hdf5` format. They can be inspectes with `h5dump`, `HDFView` and can be read programmatically using the supplied file `load_data.py`.
