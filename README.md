@@ -1,3 +1,6 @@
+![Logo](./logo.jpg)
+
+
 ![MIT License](https://img.shields.io/github/license/edoaltamura/entropy-core-problem)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)
 ![Entropy cores](https://img.shields.io/badge/Entropy-cores-red)
