@@ -30,7 +30,7 @@ plt.show()
 ```
 
 ## Data structure: `RefModelExtendedSample`
-```bash
+```text
 RefModelExtendedSample()
 |
 |-- resolution_minus_8res
@@ -46,7 +46,7 @@ RefModelExtendedSample()
 ```
 
 ## Data structure: `PropertiesReducedSample`
-```bash
+```text
 PropertiesReducedSample()
 |
 |-- redshift_0
@@ -87,7 +87,7 @@ PropertiesReducedSample()
 ```
 
 ## Data structure: `ProfilesReducedSample`
-```bash
+```text
 ProfilesReducedSample()
 |
 |-- VR18_minus_1res
