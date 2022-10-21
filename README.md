@@ -1,6 +1,8 @@
 # Entropy core problem
 ## Data products from the study by [Altamura et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv221009978A/abstract)
-The data are supplied in `hdf5` format. They can be inspectes with `h5dump`, `HDFView` and can be read programmatically using the supplied file `load_data.py`. The `load_data.py` organises the data in categories through the following classes:
+The data are supplied in `hdf5` format. They can be inspectes with `h5dump`, `HDFView` and can be read programmatically using the supplied file `load_data.py`.
+
+`load_data.py` organises the data in categories through the following classes:
 - `RefModelExtendedSample`
 - `PropertiesReducedSample`
 - `ProfilesReducedSample`
