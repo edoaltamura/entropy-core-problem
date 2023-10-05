@@ -137,3 +137,23 @@ ProfilesReducedSample()
 |-- VR2915_minus_8res
      |--  ...
 ```
+## Raw simulation data for the simulated cluster
+The raw data for the simulated cluster at $z=0$ run with the _Ref_ model is publicly accessible and can be downloaded from Zenodo at [this link](https://doi.org/10.5281/zenodo.8410619).
+
+If you use these raw data files for your work, please consider citing the MNRAS paper, as well as the Zenodo dataset with this BibTeX handle:
+```text
+@dataset{edoardo_altamura_2023_8410619,
+  author       = {Edoardo Altamura},
+  title        = {{Simulated galaxy cluster data at $z=0$ demonstrating 
+                   the entropy core problem with the SWIFT-EAGLE
+                   galaxy formation model}},
+  month        = oct,
+  year         = 2023,
+  note         = {{Main snapshot data: snap\_2640.hdf5 Main catalogue 
+                   data: snap\_2640.properties}},
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.8410619},
+  url          = {https://doi.org/10.5281/zenodo.8410619}
+}
+```
